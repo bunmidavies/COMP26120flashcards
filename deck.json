@@ -69,7 +69,7 @@
         "paste-e17a3634bd7367f56d56b344d9196ac2e9887d2e.jpg",
         "rec1674225854.mp3"
     ],
-    "name": "COMP26120",
+    "name": "COMP26120flashcards",
     "newLimit": null,
     "newLimitToday": null,
     "note_models": [
@@ -409,6 +409,16 @@
                 "<img src=\"paste-a2a223453e3c22a37676596940db812d0f1445b9.jpg\">"
             ],
             "guid": "qAn2/,g294",
+            "note_model_uuid": "4d6d96a3-9fff-11ed-816d-00d861fcc5bb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "test",
+                "testing"
+            ],
+            "guid": "cJ9M?$f#gW",
             "note_model_uuid": "4d6d96a3-9fff-11ed-816d-00d861fcc5bb",
             "tags": []
         }
