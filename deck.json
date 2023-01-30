@@ -79,21 +79,25 @@
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Front",
                     "ord": 0,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
+                    "collapsed": false,
                     "description": "",
                     "font": "Arial",
                     "media": [],
                     "name": "Back",
                     "ord": 1,
+                    "plainText": false,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
@@ -419,6 +423,16 @@
                 "testing"
             ],
             "guid": "cJ9M?$f#gW",
+            "note_model_uuid": "4d6d96a3-9fff-11ed-816d-00d861fcc5bb",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Marlin123",
+                "Marlin123"
+            ],
+            "guid": "pNSXZkK(;I",
             "note_model_uuid": "4d6d96a3-9fff-11ed-816d-00d861fcc5bb",
             "tags": []
         }
